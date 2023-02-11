@@ -1,4 +1,5 @@
-- hi, I'm @ihs4ncim
+* @ihs4ncim
+Owner & Developer @MagicyourNetwork
 
 <!---
 ihs4ncim/ihs4ncim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

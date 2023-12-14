@@ -1,5 +1,5 @@
 * @ihs4ncim
-Owner & Developer @MagicyourNetwork
+Machine Programmer and Software Developer
 
 <!---
 ihs4ncim/ihs4ncim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
